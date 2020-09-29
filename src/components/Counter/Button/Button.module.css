@@ -1,0 +1,19 @@
+.button {
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font: inherit;
+    color: white;
+    background-color: dodgerblue;
+    margin: 5px;
+}
+
+.button:disabled {
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font: inherit;
+    color: white;
+    background-color: darkred;
+    margin: 5px;
+}
